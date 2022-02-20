@@ -1,12 +1,16 @@
 # Portfolio
 Work-In-Progress
 
+Hey, this repo acts as a small showcase for some projects I did or that I am still working on 🙂
+The primary focus is on projects I did in my bachelor and master studies of Mediainformatics so far and that I thaught were worth mentioning. 
+I also added some private projects as well. The collection is not complete at all and subjected to change 😄
+
 ## Languages I usually work with
 Java, Python, Kotlin, Go, Javascript, C++, Rust </br>
 _I recently started to learn RUST as a C++ replacement._
 
 ## Interests
-TBD
+Dialogue Management, Chatbots, Voice User Interfaces, Conversational UIs, Scalable Architectures, Microservices, Computer Graphics, Machine Learning (TODO add some of my ML projects), NLP/NLU, Reinforcement Learning, Data Analytics, Database Systems, TBD
 
 ## Personal Projects
 Out of personal interest or to improve my skills or knowledge I worked/I am working on the following projects.
