@@ -7,7 +7,7 @@ I also added some private projects as well. The collection is not complete at al
 ## Languages I usually work with
 Java, Python, Kotlin, Go, Javascript, C++, Rust </br>
 
-_Java and Python are the languages I have the most knowledge about_
+_Java and Python are the languages I have the most knowledge about._<br>
 _I recently started to learn RUST as a C++ replacement._ <br>
 _I do not really like Javascript, but I can use work with it when needed_ <br>
 
