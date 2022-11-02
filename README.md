@@ -16,11 +16,20 @@ Dialogue Management, Chatbots, Voice User Interfaces, Conversational UIs, Scalab
 
 ## Personal Projects
 Out of personal interest or to improve my skills or knowledge I worked/I am working on the following projects.
+For a complete list of the ones that are public on GitHub you can browse through them under my profile [here](https://github.com/Kai-Karren).
 
-### NLG Server
+### NLG Server (Java)
 https://github.com/Kai-Karren/nlg-server </br>
 An example for a Naturual Language Generation (NLG) Server that can be used to separate the response management from the dialogue engine.
 Uses Rasa's NLG Server API.
+
+### Custom WebSocket Channel for Rasa (Python)
+https://github.com/Kai-Karren/rasa-websocket-channel <br>
+As a PoC I implemented an example for a Custom WebSocket Channel for [Rasa](https://rasa.com) using Sanic. 
+
+### My Website
+https://github.com/Kai-Karren/Kai-Karren.github.io <br>
+I am currently hosting my website https://kaikarren.de using GitHub Pages with an GitHub Actions CI/CD pipeline. 
 
 ### SDE (Java, Kotlin)
 **Closed source**</br>
