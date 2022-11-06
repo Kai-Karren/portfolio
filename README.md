@@ -32,7 +32,8 @@ https://github.com/Kai-Karren/Kai-Karren.github.io <br>
 I am currently hosting my website https://kaikarren.de using GitHub Pages with an GitHub Actions CI/CD pipeline. 
 
 ### Template and Examples
-I have a variety of public example and template repo here on GitHub.
+I have a variety of public example and template repo here on GitHub like the [Java Template](https://github.com/Kai-Karren/java-template) or
+the example on how to dockerize a Go application [here](https://github.com/Kai-Karren/go-docker-container-example).
 
 ### SDE (Java, Kotlin)
 **Closed source**</br>
