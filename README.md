@@ -31,6 +31,9 @@ As a PoC I implemented an example for a Custom WebSocket Channel for [Rasa](http
 https://github.com/Kai-Karren/Kai-Karren.github.io <br>
 I am currently hosting my website https://kaikarren.de using GitHub Pages with an GitHub Actions CI/CD pipeline. 
 
+### Template and Examples
+I have a variety of public example and template repo here on GitHub.
+
 ### SDE (Java, Kotlin)
 **Closed source**</br>
 Simple Dialogue Engine (SDE) is my personal dialogue engine that I use for personal experiments with focus on simplicity. It is based things I learned while working on VUISA and StoryBot.
@@ -41,7 +44,12 @@ I implemented some dialogue engine actions servers that can be used as Action Se
 
 ## University Projects
 As part of my study program I worked on the following projects that I think are worth mentioning.
-All of them are closed source.
+Most of them are closed source however.
+
+### Social Bot Info (Python)
+
+As a praxis project for a media psychology seminar I created a chatbot that informs about the implications of so-called social bots in social media.
+[Gitlab repo](https://gitlab.com/KaiKarren/social-bot-info)
 
 ### CG Ray Tracer (C++)
 As part of the computer graphics core lecture that I took in my bachelor studies, I implemented a ray tracer together with my team partner Marc Ruble.
